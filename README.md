@@ -136,7 +136,7 @@ CLI:
 
 ```python
     # data prediction returns as list
-    one_r.fit(data)
+    one_r.predict(data)
     
     # show data best predictor and accuracy
     attribute, rule, accuracy = one_r.best_predictor()
