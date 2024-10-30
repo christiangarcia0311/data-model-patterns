@@ -10,6 +10,8 @@
 
 ![logo](images/logo.jpg)
 
+[Reference...](#documentation-reference)
+
 A **mining model** is created by applying an algorithm to _data_, but it is more than an algorithm or a metadata container: it is a set of _data_, _statistics_, and _patterns_ that can be applied to new data to generate predictions and make inferences about relationships. 
 
 ## Modeling
@@ -651,6 +653,11 @@ Y were independent.
 # Author
 ![Static Badge](https://img.shields.io/badge/Christian-Garcia-orange?link=https%3A%2F%2Fgithub.com%2Fchristiangarcia0311)
 
+# Documentation Reference
+
+[Data Mining](https://www.saedsayad.com/data_mining.htm)
+
+[Data Modeling](https://www.saedsayad.com/modeling.htm)
 
 Feel free to contribute to this library by submitting issues or pull requests to the repository.
 
