@@ -1,9 +1,9 @@
-![Static Badge](https://img.shields.io/badge/pypi-v.3.1.0-blue)
-![Static Badge](https://img.shields.io/badge/data_modeling-green)
-![Static Badge](https://img.shields.io/badge/classification-model-red)
-![Static Badge](https://img.shields.io/badge/regression-blue)
-![Static Badge](https://img.shields.io/badge/clustering-orange)
-![Static Badge](https://img.shields.io/badge/association-rules-brown)
+![Static Badge](https://img.shields.io/badge/pypi-v.3.1.0-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/data_modeling-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/classification-model-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/regression-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/clustering-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/association-rules-brown?style=for-the-badge)
 
 
 <h1 align="center"> Data Modeling</h1
@@ -648,10 +648,10 @@ Y were independent.
 | `ylabel` | label name in Y-axis |
 
 # License
-![Static Badge](https://img.shields.io/badge/MIT-License-blue)
+![Static Badge](https://img.shields.io/badge/MIT-License-blue?style=for-the-badge)
 
 # Author
-![Static Badge](https://img.shields.io/badge/Christian-Garcia-orange?link=https%3A%2F%2Fgithub.com%2Fchristiangarcia0311)
+![Static Badge](https://img.shields.io/badge/Christian-Garcia-orange?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fchristiangarcia0311)
 
 # Documentation Reference
 
